@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+    align-items: center;
+}
+
+
+.btn {
+    cursor: pointer;
+    align-items: center;
+    padding: 10px;
+
+}
+
+.btn:hover {
+    font-weight: bold;
+}
+
+.btn:active {
+    background: darkgrey;
+    transform: scale(0.9)
+}
+
+.btn-icon {
+    padding: 5px 5px 0px 5px;
+}
+
+.hidden {
+    display: none;
+}
